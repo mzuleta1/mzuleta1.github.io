@@ -173,6 +173,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2em 0;
+		color:  #ffffff
 	}
 
 		p.content {
@@ -3756,3 +3757,5 @@ input, select, textarea {
 			}
 
 		}
+
+		

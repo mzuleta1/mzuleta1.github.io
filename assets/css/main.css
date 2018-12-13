@@ -100,8 +100,9 @@ input, select, textarea {
 
 	body {
 		
-		background-image: url("images/code4.jpg");
+		background-image: url("images/CODE5.jpg");		
 		background-position: fixed;
+		
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
